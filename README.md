@@ -1,0 +1,2 @@
+# eMailBox
+Simple email implementation
